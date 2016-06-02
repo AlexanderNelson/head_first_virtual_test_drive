@@ -9,7 +9,7 @@ def sound_horn
 end
 
 def use_headlights(brightness)
-    puts "Turning on #(brightness) headlights"
+    puts "Turning on #{brightness} headlights"
     puts "Watch out for deer!"
 end
 
